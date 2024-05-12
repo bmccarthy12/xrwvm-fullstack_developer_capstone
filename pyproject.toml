@@ -49,5 +49,6 @@ disable = [
     "singleton-comparison",
     "import-outside-toplevel",
     "wrong-import-order",
+    "trailing-newlines",
 
 ]
