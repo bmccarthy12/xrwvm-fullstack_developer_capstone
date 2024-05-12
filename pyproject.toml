@@ -45,6 +45,9 @@ disable = [
     "no-else-return",
     "invalid-name",
     "logging-format-interpolation",
-
+    "useless-option-value",
+    "singleton-comparison",
+    "import-outside-toplevel",
+    "wrong-import-order",
 
 ]
